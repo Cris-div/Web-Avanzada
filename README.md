@@ -1,9 +1,12 @@
 "# Web-Avanzada" 
-<img width="1919" height="375" alt="image" src="https://github.com/user-attachments/assets/bff49e5d-c8e9-4018-9513-e96944165aea" />
+#Principal
+<img width="1366" height="585" alt="image" src="https://github.com/user-attachments/assets/35b6e0c2-a652-475b-b113-d64ac0986808" />
 
+#Nosotros 
+<img width="1353" height="586" alt="image" src="https://github.com/user-attachments/assets/21f82493-724f-4fa5-b0b2-5d567bec662c" />
 
-<img width="1919" height="489" alt="image" src="https://github.com/user-attachments/assets/8e2168fd-6f83-4212-97dc-9f5d35b7a0d6" />
+#Servicios 
+<img width="1172" height="576" alt="image" src="https://github.com/user-attachments/assets/a7364bcb-8d08-495c-b824-e701c147b29b" />
 
-<img width="1917" height="434" alt="image" src="https://github.com/user-attachments/assets/05f33ce6-cf0a-40fd-89a4-82ba261d7a57" />
-
-<img width="1919" height="612" alt="image" src="https://github.com/user-attachments/assets/093898d6-0f11-438b-8e83-3982e2771b60" />
+#Contacto
+![Uploading image.png…]()
